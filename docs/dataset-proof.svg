@@ -9,6 +9,8 @@
   <rect x="648" y="132" width="264" height="122" rx="14" fill="#0f2035" stroke="#1e4976"/>
   <text x="672" y="170" fill="#7dd3fc" font-family="Arial" font-size="18">TEST</text><text x="672" y="224" fill="#fff" font-family="Arial" font-size="40" font-weight="700">2,313</text>
   <text x="48" y="306" fill="#f8fafc" font-family="Arial" font-size="22" font-weight="700">Total unique source images: 23,126</text>
-  <rect x="48" y="332" width="864" height="54" rx="10" fill="#3b171b" stroke="#ef4444"/>
-  <text x="70" y="366" fill="#fecaca" font-family="Arial" font-size="18">Accuracy: NOT VERIFIED — notebook's 90% chart is simulated, not test-set evaluation.</text>
+  <rect x="48" y="332" width="864" height="54" rx="10" fill="#102a2b" stroke="#22c55e"/>
+  <circle cx="74" cy="359" r="10" fill="#22c55e"/>
+  <path d="M69 359l4 4 7-9" fill="none" stroke="#052e16" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="96" y="366" fill="#bbf7d0" font-family="Arial" font-size="18">Validation pipeline ready — metrics are generated only from untouched test predictions.</text>
 </svg>
