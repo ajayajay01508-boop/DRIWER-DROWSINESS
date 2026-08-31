@@ -4,6 +4,8 @@ Real-time driver-safety primitives using eye-aspect ratio (EAR), mouth-aspect ra
 
 [Live browser demo](https://driver-drowsiness-ajay.choice-anole-9169.chatgpt.site) · [Validation audit](docs/VALIDATION.md)
 
+![Dataset and accuracy audit](docs/dataset-proof.svg)
+
 ## What was fixed
 
 - Correctly documents the supplied dataset as **23,126 images**, not 100,000+.
