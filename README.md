@@ -1,10 +1,10 @@
-# Driver Drowsiness Detection — Audited Edition
+# Driver Drowsiness Detection System
 
 Real-time driver-safety primitives using eye-aspect ratio (EAR), mouth-aspect ratio (MAR), and a consecutive-frame alarm to reduce single-frame false positives.
 
 [Live browser demo](https://driver-drowsiness-ajay.choice-anole-9169.chatgpt.site) · [Validation audit](docs/VALIDATION.md)
 
-![Dataset and accuracy audit](docs/dataset-proof.svg)
+![Dataset validation evidence](docs/dataset-validation-v2.svg)
 
 ## What was fixed
 
